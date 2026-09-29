@@ -1,0 +1,61 @@
+student_id,subject,attendance_percent
+2023CSE101,Data Structures,90.8
+2023CSE101,DBMS,90.8
+2023CSE101,Operating Systems,77.9
+2023CSE101,Computer Networks,90.3
+2023CSE101,Software Engineering,81.6
+2023CSE102,Data Structures,79.1
+2023CSE102,DBMS,77.9
+2023CSE102,Operating Systems,90.6
+2023CSE102,Computer Networks,87.0
+2023CSE102,Software Engineering,87.5
+2023CSE103,Data Structures,69.5
+2023CSE103,DBMS,69.2
+2023CSE103,Operating Systems,66.9
+2023CSE103,Computer Networks,64.1
+2023CSE103,Software Engineering,70.7
+2023CSE104,Data Structures,80.6
+2023CSE104,DBMS,80.2
+2023CSE104,Operating Systems,89.1
+2023CSE104,Computer Networks,81.3
+2023CSE104,Software Engineering,87.7
+2023CSE105,Data Structures,77.8
+2023CSE105,DBMS,91.8
+2023CSE105,Operating Systems,95.9
+2023CSE105,Computer Networks,76.2
+2023CSE105,Software Engineering,81.3
+2023CSE106,Data Structures,95.4
+2023CSE106,DBMS,88.5
+2023CSE106,Operating Systems,83.5
+2023CSE106,Computer Networks,94.4
+2023CSE106,Software Engineering,83.3
+2023CSE107,Data Structures,71.1
+2023CSE107,DBMS,67.9
+2023CSE107,Operating Systems,64.3
+2023CSE107,Computer Networks,58.6
+2023CSE107,Software Engineering,60.3
+2023CSE108,Data Structures,81.0
+2023CSE108,DBMS,87.8
+2023CSE108,Operating Systems,77.3
+2023CSE108,Computer Networks,81.6
+2023CSE108,Software Engineering,93.6
+2023CSE109,Data Structures,77.9
+2023CSE109,DBMS,90.6
+2023CSE109,Operating Systems,84.1
+2023CSE109,Computer Networks,79.8
+2023CSE109,Software Engineering,81.0
+2023CSE110,Data Structures,66.1
+2023CSE110,DBMS,67.8
+2023CSE110,Operating Systems,69.7
+2023CSE110,Computer Networks,61.6
+2023CSE110,Software Engineering,66.8
+2023CSE111,Data Structures,81.9
+2023CSE111,DBMS,91.0
+2023CSE111,Operating Systems,93.1
+2023CSE111,Computer Networks,79.7
+2023CSE111,Software Engineering,78.4
+2023CSE112,Data Structures,89.1
+2023CSE112,DBMS,89.4
+2023CSE112,Operating Systems,88.9
+2023CSE112,Computer Networks,76.2
+2023CSE112,Software Engineering,86.8

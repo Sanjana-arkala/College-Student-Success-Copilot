@@ -1,0 +1,28 @@
+# API + config
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+pandas
+
+# MCP + LLM
+mcp
+anthropic
+
+# Policy RAG
+chromadb
+sentence-transformers
+pypdf
+
+# UI
+streamlit
+
+# Dev / testing
+pytest

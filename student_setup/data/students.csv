@@ -1,0 +1,13 @@
+student_id,name,course,semester,previous_gpa,backlogs
+2023CSE101,Aarav A.,CSE,6,8.3,0
+2023CSE102,Diya B.,CSE,6,7.8,0
+2023CSE103,Rohan C.,CSE,6,5.6,1
+2023CSE104,Sneha D.,CSE,6,8.6,0
+2023CSE105,Kiran E.,CSE,6,9.2,1
+2023CSE106,Meera F.,CSE,6,7.9,0
+2023CSE107,Arjun G.,CSE,6,5.6,3
+2023CSE108,Isha H.,CSE,6,8.0,0
+2023CSE109,Vikram I.,CSE,6,7.8,0
+2023CSE110,Anaya J.,CSE,6,5.8,1
+2023CSE111,Rahul K.,CSE,6,8.0,0
+2023CSE112,Priya L.,CSE,6,8.3,1
