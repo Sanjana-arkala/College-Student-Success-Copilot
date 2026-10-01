@@ -30,3 +30,4 @@ def get_previous_semester_results(student_id: str) -> dict:
         if not s:
             return {"error": "Student not found", "student_id": student_id}
         return {"student_id": student_id, "previous_gpa": s.previous_gpa, "backlogs": s.backlogs}
+

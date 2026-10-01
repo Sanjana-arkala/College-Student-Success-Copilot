@@ -17,3 +17,4 @@ def ask_llm(system: str, user: str) -> str:
         messages=[{"role": "user", "content": user}],
     )
     return "".join(b.text for b in msg.content if b.type == "text")
+

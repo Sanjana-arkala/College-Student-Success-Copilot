@@ -11,3 +11,4 @@ def audit(event: str, **details) -> None:
     record = {"ts": datetime.now(timezone.utc).isoformat(), "event": event, **details}
     with open(settings.audit_log_path, "a", encoding="utf-8") as f:
         f.write(json.dumps(record) + "\n")
+

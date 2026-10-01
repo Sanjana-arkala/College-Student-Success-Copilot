@@ -26,3 +26,4 @@ def get_students(course: str, semester: int) -> dict:
     with SessionLocal() as db:
         rows = db.query(Student).filter(Student.course == course, Student.semester == semester).all()
         return {"students": [_to_dict(s) for s in rows]}
+

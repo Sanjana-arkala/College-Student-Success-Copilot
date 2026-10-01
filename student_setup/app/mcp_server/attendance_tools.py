@@ -20,3 +20,4 @@ def get_class_attendance(course: str, semester: int) -> dict:
                 .filter(Student.course == course, Student.semester == semester).all())
         return {"records": [{"student_id": r.student_id, "subject": r.subject,
                              "percent": r.attendance_percent} for r in rows]}
+

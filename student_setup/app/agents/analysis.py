@@ -32,3 +32,4 @@ def analyze_student(profile: dict, attendance: list, marks: list, assignments: l
         "indicators": indicators,
         "needs_attention": len(indicators) >= settings.min_indicators_for_alert,
     }
+

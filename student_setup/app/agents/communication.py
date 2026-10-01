@@ -14,3 +14,4 @@ def draft_message(analysis: dict) -> dict:
         body = (f"Hi {analysis['name']}, I'd like to meet to talk about how the semester is going and "
                 "how I can support you. Please let me know a time that works for you.")
     return create_draft("student_message", analysis["student_id"], body)
+

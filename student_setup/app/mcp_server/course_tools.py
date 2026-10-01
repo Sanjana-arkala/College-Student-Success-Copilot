@@ -29,3 +29,4 @@ def get_assignments(student_id: str) -> dict:
         rows = db.query(Assignment).filter(Assignment.student_id == student_id).all()
         return {"student_id": student_id,
                 "assignments": [{"subject": r.subject, "title": r.title, "status": r.status} for r in rows]}
+

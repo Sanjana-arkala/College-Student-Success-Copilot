@@ -63,3 +63,4 @@ async def handle(message: str, user_role: str = "faculty") -> dict:
         result = await answer_policy(session, plan.get("query") or message, trace)
         trace.append("Policy Agent: answered from retrieved documents")
         return {"intent": "policy_question", "trace": trace, **result}
+

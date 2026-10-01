@@ -1,0 +1,18 @@
+.venv/
+.env
+venv/
+__pycache__/
+*.pyc
+data/chroma/
+logs/*.log
+# Student project generated/runtime files
+student_setup/data/chroma/
+student_setup/logs/*.log
+student_setup/*_debug.log
+
+# Temporary diagnostic scripts
+student_setup/test_agent.py
+student_setup/test_mcp.py
+student_setup/test_policy_mcp.py
+student_setup/test_thread_rag.py
+student_setup/app/rag/policy_search_worker.py

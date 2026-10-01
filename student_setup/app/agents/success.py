@@ -25,3 +25,4 @@ def recommend(analysis: dict, policy_text: str = "") -> dict:
     except Exception:
         text = "\n".join(f"{i+1}. {r}" for i, r in enumerate(rule_based(analysis)))
     return {"student_id": analysis["student_id"], "recommendations": text}
+

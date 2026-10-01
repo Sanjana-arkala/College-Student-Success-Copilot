@@ -41,3 +41,4 @@ def cancel(draft_id: str):
     if not d:
         raise HTTPException(404, "Draft not found")
     return d
+
